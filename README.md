@@ -6,9 +6,8 @@ Gravity Point Calculator
 モーションキャプチャから取得した身体座標と体重を基に、その身体重心を求めるプログラムです
 
 ## Requirement
-"next": "13.3.0",
-"react": "18.2.0",
-"react-dom": "18.2.0"
+Windows 11
+Node 16.14.0
 
 ## Usage
 ルートディレクトリに入ったらnpm installを実行してnode_modulesを作成してください。作成が完了し次第、npm run devでプロジェクトを実行してください。
